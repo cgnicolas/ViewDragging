@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "4480437cf3df3eddc86a540a72d39302"
+build_time: [1511644379, 666662000]
+inputs:
+  "/Users/cedricnicolas/Desktop/Learning Swift/draggingViews/draggingViews/ViewController.swift": [1511117522, 0]
+  "/Users/cedricnicolas/Desktop/Learning Swift/draggingViews/draggingViews/AppDelegate.swift": [1511116341, 0]
+  "/Users/cedricnicolas/Desktop/Learning Swift/draggingViews/draggingViews/touchViews.swift": [1511117047, 0]
